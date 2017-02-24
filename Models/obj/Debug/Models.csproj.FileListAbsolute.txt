@@ -1,0 +1,5 @@
+C:\workspaces\Github Private\School\Breaking News\Models\bin\Debug\Models.dll
+C:\workspaces\Github Private\School\Breaking News\Models\bin\Debug\Models.pdb
+C:\workspaces\Github Private\School\Breaking News\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\workspaces\Github Private\School\Breaking News\Models\obj\Debug\Models.dll
+C:\workspaces\Github Private\School\Breaking News\Models\obj\Debug\Models.pdb

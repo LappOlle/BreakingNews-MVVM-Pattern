@@ -1,0 +1,15 @@
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\bin\Debug\NUnitTests.dll
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\bin\Debug\NUnitTests.pdb
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\bin\Debug\Castle.Core.dll
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\bin\Debug\Models.dll
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\bin\Debug\Moq.dll
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\bin\Debug\nunit.framework.dll
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\bin\Debug\ViewModels.dll
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\bin\Debug\Models.pdb
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\bin\Debug\ViewModels.pdb
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\bin\Debug\Castle.Core.xml
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\bin\Debug\Moq.xml
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\bin\Debug\nunit.framework.xml
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\obj\Debug\NUnitTests.csprojResolveAssemblyReference.cache
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\obj\Debug\NUnitTests.dll
+C:\workspaces\Github Private\School\Breaking News\NUnitTests\obj\Debug\NUnitTests.pdb

@@ -1,0 +1,7 @@
+C:\workspaces\Github Private\School\Breaking News\ViewModels\bin\Debug\ViewModels.dll
+C:\workspaces\Github Private\School\Breaking News\ViewModels\bin\Debug\ViewModels.pdb
+C:\workspaces\Github Private\School\Breaking News\ViewModels\bin\Debug\Models.dll
+C:\workspaces\Github Private\School\Breaking News\ViewModels\bin\Debug\Models.pdb
+C:\workspaces\Github Private\School\Breaking News\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+C:\workspaces\Github Private\School\Breaking News\ViewModels\obj\Debug\ViewModels.dll
+C:\workspaces\Github Private\School\Breaking News\ViewModels\obj\Debug\ViewModels.pdb
