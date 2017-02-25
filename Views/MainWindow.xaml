@@ -39,7 +39,7 @@
             </StackPanel>
             <!--I Have Added this to every radiobutton  
                 The delegate ICommand property to bind to = Command="{Binding RadioButtonKeywordCommand}" 
-                What i send in to the property as paramter = CommandParameter="{Binding Content, RelativeSource={RelativeSource Mode=Self}, Mode=TwoWay}" 
+                What i send in to the property as parameter = CommandParameter="{Binding Content, RelativeSource={RelativeSource Mode=Self}, Mode=TwoWay}" 
                 What group name of this radiobuttons = GroupName="KeyWord"-->
         </GroupBox>
         <GroupBox x:Name="groupBox_NewsPaper" Header="Newspaper Settings" Margin="27,10,10,40" Grid.Row="1" BorderThickness="2" Grid.Column="2" HorizontalContentAlignment="Right" Padding="0,10,10,0" Grid.ColumnSpan="3" Grid.RowSpan="3">
